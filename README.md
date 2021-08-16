@@ -1,2 +1,2 @@
-# stepik-selenuim-course
+# python-learning
 homework
