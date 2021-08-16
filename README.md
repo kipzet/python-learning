@@ -1,2 +1,3 @@
-# python-learning
-homework
+# Изучение Python
+
+Домашняя работа и не только ;)
